@@ -1,6 +1,6 @@
 ## Quick start
 
-1. Clone this repository `git clone https://github.com/Alex-DG/awesome-react-native.git
+1. Clone this repository `git clone https://github.com/Alex-DG/awesome-react-native.git`
 2. Open your terminal, type `yarn` in the project root folder on local to install all the dependencies
 3. Type `yarn start` to start the bundler
 4. In a separate terminal window type `yarn ios` or `yarn android` to start this app.
