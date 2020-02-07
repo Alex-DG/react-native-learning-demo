@@ -1,7 +1,7 @@
 ## Quick start
 
 1. Clone this repository `git clone https://github.com/Alex-DG/react-native-learning-demo.git`
-2. Open your terminal, type `yarn` in the project root folder on local to install all the dependencies
+2. Open your terminal, type `yarn` in the project root folder to install all the dependencies
 3. Type `yarn start` to start the bundler
 4. In a separate terminal window type `yarn ios` or `yarn android` to start this app.
 
@@ -36,3 +36,8 @@ If you want to know more about `npx`: [What is npx?](https://dev.to/matheusgomes
 
 - [What is ECMAScript6](https://www.w3schools.com/Js/js_es6.asp)
 - [JavaScript ES6 - write less do more](https://www.freecodecamp.org/news/write-less-do-more-with-javascript-es6-5fd4a8e50ee2/)
+
+## Yarn
+
+- [yarnpkg.com](https://yarnpkg.com/)
+- [How to install?](https://classic.yarnpkg.com/en/docs/install/#mac-stable)
