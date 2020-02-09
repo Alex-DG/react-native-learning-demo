@@ -60,3 +60,11 @@ If you want to know more about `npx`: [What is npx?](https://dev.to/matheusgomes
 The most popular choice for handling navigation in a React Native app.
 
 - [https://reactnavigation.org/](https://reactnavigation.org/)
+
+## Where do you go from here?
+
+I've shown you a very basic first approach about how to structure your react-native app.
+There is no universal rules here an alternative organisation of your files which goes further
+if you are interested by learning more about this topic:
+
+- [How to structure your project and manage static ressources in your project](https://www.freecodecamp.org/news/how-to-structure-your-project-and-manage-static-resources-in-react-native-6f4cfc947d92/)
