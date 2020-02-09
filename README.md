@@ -2,8 +2,21 @@
 
 1. Clone this repository `git clone https://github.com/Alex-DG/react-native-learning-demo.git`
 2. Open your terminal, type `yarn` in the project root folder to install all the dependencies
+
+- On iOS, to complete the linking of `react-navigation`, make sure you have [Cocoapods](https://cocoapods.org/) installed. Then run:
+
+```
+cd ios
+pod install
+cd ..
+```
+
+- On Android, it shouldn't need any more steps.
+
 3. Type `yarn start` to start the bundler
 4. In a separate terminal window type `yarn ios` or `yarn android` to start this app.
+
+/!\ If you have any problems with `react-navigation` dependencies, have a look to [Getting starting with react-navigation > React Native 0.60 and higher](https://reactnavigation.org/docs/en/3.x/getting-started.html)
 
 ## Create a new React-Native App with TS template
 
@@ -41,3 +54,9 @@ If you want to know more about `npx`: [What is npx?](https://dev.to/matheusgomes
 
 - [yarnpkg.com](https://yarnpkg.com/)
 - [How to install?](https://classic.yarnpkg.com/en/docs/install/#mac-stable)
+
+## React-Navigation
+
+The most popular choice for handling navigation in a React Native app.
+
+- [https://reactnavigation.org/](https://reactnavigation.org/)
