@@ -44,6 +44,7 @@ If you want to know more about `npx`: [What is npx?](https://dev.to/matheusgomes
 
 - Common pattern is to pass a style through the style props of each of you react-native component and using [React-Native StyleSheet](https://facebook.github.io/react-native/docs/style)
 - Alternative: [Styled-component](https://styled-components.com/)
+- [Why I like using styled-components in react-native apps?](https://medium.com/building-with-react-native/why-i-like-using-styled-components-in-react-native-apps-1x10-6f98a46efdf9)
 
 ## JavaScript ES6
 
