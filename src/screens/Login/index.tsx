@@ -21,6 +21,7 @@ const Login = () => {
           value={email}
           placeholder="Enter your email"
           onChangeText={text => setEmail(text)}
+          autoCapitalize="none"
         />
 
         <Input
