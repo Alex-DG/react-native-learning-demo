@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import { View } from 'react-native'
 
 import { styles } from './styles'
-import { navigate } from '../../config/navigation'
+import { navigate } from '../../utils/navigation'
 
 import ScreenContainer from '../../components/ScreenContainer'
 import Button from '../../components/Button'

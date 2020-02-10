@@ -10,7 +10,7 @@ import LoginScreen from './screens/Login'
 import MathScreen from './screens/Math'
 import TodoScreen from './screens/Todo'
 
-import { navigationInit } from './config/navigation'
+import { navigationInit } from './utils/navigation'
 
 /**
  * Manage your routes
