@@ -19,6 +19,10 @@ it('should render correctly', () => {
 it('should be a valid email', () => {
   expect(isEmailValid('alex@gearedapp.co.uk')).toBeTruthy()
 })
+
+/**
+ * We want to be sure to handle failure as well
+ */
 it('should not be a valid email', () => {
   expect(isEmailValid('alexgearedapp.co.uk')).toBeFalsy()
 })
